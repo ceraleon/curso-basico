@@ -1,2 +1,2 @@
 # curso-basico
-Este repositorio contiene la documentación y código usado en el curso básico
+Este repositorio contiene la documentación y código usados en el curso básico
